@@ -1,3 +1,5 @@
+// Karin Thorne
+
 "use strict";
 
 var crypto = require("crypto");
